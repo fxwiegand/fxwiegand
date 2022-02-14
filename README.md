@@ -1,6 +1,6 @@
 ### Hello my name is Felix 👋
 
-- 🔭 I’m currently working on my masters degree in computer science. I am also working on new features for [rust-bio-tools](https://github.com/rust-bio/rust-bio-tools).
+- 🔭 I’m currently working on my masters degree in computer science. I am also working on [datavzrd](https://github.com/koesterlab/datavzrd) and [rust-bio-tools](https://github.com/rust-bio/rust-bio-tools).
 - 🌱 I’m currently learning a lot about [Rust](https://www.rust-lang.org) and [Vega-Lite](https://vega.github.io/vega-lite/).
 - 💬 Ask me about anything you like.
 - 📱 How to reach me: Reach out to me on Telegram (**@fxwiegand**) or find me on [Instagram](https://www.instagram.com/fxwiegand/).
